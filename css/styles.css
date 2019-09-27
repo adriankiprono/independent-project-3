@@ -1,7 +1,16 @@
+#icon-one{
+    text-align: center;
 
+}
 h1{
     font-style: normal;
     font-size: 60px;
     text-align: center;
+    color: aliceblue;
     
+}
+body{
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
