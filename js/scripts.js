@@ -1,6 +1,12 @@
 $(document).ready(function() {
-    $("p").click(function() {
-      $("DESIGN").toggle();
-      $("DESIGN").toggle();
+    $(".design").click(function() {
+      $(".para1").toggle();      
     });
+    $(".development").click(function() {
+        $(".para2").toggle();
+    });
+    $(".project").click(function() {
+        $(".para3").toggle();
+    });
+
   });
