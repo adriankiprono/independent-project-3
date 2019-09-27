@@ -8,5 +8,6 @@ $(document).ready(function() {
     $(".project").click(function() {
         $(".para3").toggle();
     });
+    
 
   });

@@ -95,4 +95,24 @@ h5{
     text-align: center;
     font-size: 45px;
 }
+.name{
+    background: transparent;
+    width: 30%;
+    
+
+}
+.email{
+    background: transparent;
+    width: 30%;
+    
+
+}
+.message{
+    background: transparent;
+    height: 40%;
+    width: 60%;
+
+}.form{
+    text-align: center;
+}
     
