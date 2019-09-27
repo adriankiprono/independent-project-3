@@ -12,11 +12,23 @@ h1{
 
     
 }
-body{
-    background-image: url("../assets/backgrounds/h_img.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+
+#top{
+text-align: center;
+
+top:50%;
+left:50%;
+position: absolute;
+transform:translate(-50% ,-50%);
+/* padding-top:50%; */
+
 }
+
+
+
+
+   
+
 .intro{
     text-align: center;
     color: aliceblue;
