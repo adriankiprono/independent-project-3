@@ -72,4 +72,11 @@ h3{
 .row{
     padding-top: 3%;
 }
+h5{
+    text-align: center;
+    font-size: 25px;
+}
+.para{
+    display: none;
+}
     
