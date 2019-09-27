@@ -85,4 +85,14 @@ h5{
 .para3{
     display: none;
 }
+.contact-us{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    height: 100%;
+    width: 100%;
+
+}
+#head{
+    text-align: center;
+    font-size: 45px;
+}
     
