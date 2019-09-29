@@ -23,11 +23,7 @@ transform:translate(-50% ,-50%);
 /* padding-top:50%; */
 
 }
-
-
-
-
-   
+  
 
 .intro{
     text-align: center;
@@ -98,12 +94,14 @@ h5{
 .name{
     background: transparent;
     width: 30%;
+    color: azure;
     
 
 }
 .email{
     background: transparent;
     width: 30%;
+    color: azure;
     
 
 }
@@ -111,6 +109,8 @@ h5{
     background: transparent;
     height: 40%;
     width: 60%;
+    color: azure;
+    
 
 }.form{
     text-align: center;
@@ -120,8 +120,14 @@ h5{
     margin-right:50px;
     padding: 30px;
     border: 15px seashell;
+    border-block-style: solid;
 }
 .row1{
     text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+::-webkit-input-placeholder{
+    color: azure;
 }
     
