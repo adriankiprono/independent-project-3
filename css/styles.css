@@ -91,7 +91,7 @@ h5{
     text-align: center;
     font-size: 45px;
 }
-.name{
+#name{
     background: transparent;
     width: 30%;
     color: azure;
@@ -99,14 +99,14 @@ h5{
     
 
 }
-.email{
+#email{
     background: transparent;
     width: 30%;
     color: azure;
     
 
 }
-.message{
+#message{
     background: transparent;
     height: 40%;
     width: 60%;

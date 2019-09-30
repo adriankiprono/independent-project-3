@@ -8,12 +8,12 @@ $(document).ready(function() {
     $(".project").click(function() {
         $(".para3").toggle();
     });
-    $(".form").submit(function(){
+    $("form").submit(function(){
       event.preventDefault()
-      var name = document.getElementsByClassName("name").innerHTML=Text;
-      var email = document.getElementsByClassName("email").innerHTML=email;
-      var messege = document.getElementsByClassName("messsage").innerHTML=Text;
-      alert(name);
+      var name = $("#name").val();
+      var email =$("#email").val();
+      var messege =$("#name").val();
+      alert(name +"  we have received your message. Thank you for reaching out to us." );
     })
    
     
