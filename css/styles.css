@@ -134,4 +134,15 @@ h6{
     color: black;
     padding-top: 50px;
 }
+.part2{
+    background-color: aliceblue;
+    color: black;
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    left: 40%;
+    display: none;
+    
+
+}
     
