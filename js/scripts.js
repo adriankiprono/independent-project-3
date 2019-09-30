@@ -43,8 +43,9 @@ $(document).ready(function() {
     
 
   });
-  $('#part1').mouseenter(function(){
-    $('.text-within').filter("#text-title").show("slow");
-  }).mouseleave(function(){
-    $('#text-title').hide("slow");
+  $("#try").mouseenter(function(){
+    $("#jone").show();
+  });
+  $("#try").mouseleave(function(){
+    $("#jone").hide()
   });
