@@ -95,6 +95,7 @@ h5{
     background: transparent;
     width: 30%;
     color: azure;
+    margin-left: 10px;
     
 
 }
@@ -116,18 +117,21 @@ h5{
     text-align: center;
 }
 .row{
-    margin-left:25px;
-    margin-right:50px;
-    padding: 30px;
-    border: 15px seashell;
-    border-block-style: solid;
+    margin: 30px;
+    
 }
 .row1{
     text-align: center;
     margin-top: 20px;
     margin-left: 10px;
+    scroll-padding-left: 30px;
 }
 ::-webkit-input-placeholder{
     color: azure;
+}
+h6{
+    text-align: center;
+    color: black;
+    padding-top: 50px;
 }
     
